@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 Smart Expense Tracker with AI
 
 A full-stack expense tracking application with AI-powered insights, receipt OCR, and spending predictions.
@@ -222,3 +223,6 @@ For issues or questions, please create an issue in the repository.
 ---
 
 **Happy Expense Tracking! 🎉**
+=======
+# smart-expense-tracker
+>>>>>>> f37c685fe5b04c6e958fdfa4d28b722a01b02f6c
